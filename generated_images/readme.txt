@@ -1,0 +1,2 @@
+generated images folder
+
